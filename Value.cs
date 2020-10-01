@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 
 
-public class Value
+public class Value 
 {
     public static int gemValue = 0;
     public static void StringValue(string userpath)
